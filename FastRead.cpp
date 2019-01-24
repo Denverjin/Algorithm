@@ -13,6 +13,5 @@ inline ll read() {
 }
 
 int main() {
-	printf("%d\n", read() + read());
 	return 0;
 }
